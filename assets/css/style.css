@@ -261,7 +261,19 @@ h6,
   background: #000;
 }
 
-/* Services */
+
+
+
+
+
+
+
+/* Services Section */
+.services {
+  background-color: #fe1e62; /* Add the desired background color here */
+  padding: 50px; /* Adjust the padding as needed */
+}
+
 .services i {
   font-size: 40px;
 }
@@ -269,6 +281,11 @@ h6,
 .services h4 {
   padding-top: 10px;
 }
+
+
+
+
+
 
 /* Contact Form */
 .php-email-form .error-message {

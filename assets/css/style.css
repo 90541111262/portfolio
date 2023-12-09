@@ -270,8 +270,10 @@ h6,
 
 /* Services Section */
 .services {
-  background-color: #fe1e62; /* Add the desired background color here */
-  padding: 50px; /* Adjust the padding as needed */
+  background-color: #bab7ff; /* Add the desired background color here */
+  padding-top: 40 px; /* Adjust the padding as needed */
+  padding-bottom: 40 px; /* Adjust the padding as needed */
+
 }
 
 .services i {

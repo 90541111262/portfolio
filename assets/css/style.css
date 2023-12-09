@@ -25,15 +25,15 @@ h6,
 }
 
 .section {
-  padding: 2 rem 0;
+  padding: 2rem 0;
 }
 
 .filters a {
   text-decoration: none;
   color: #3f4390;
   display: inline-block;
-  padding-left: 10 px;
-  padding-right: 10 px;
+  padding-left: 10px;
+  padding-right: 10px;
   position: relative;
 }
 
@@ -46,10 +46,10 @@ h6,
 .filters a:hover:before {
   content: "";
   position: absolute;
-  left: 10 px;
-  right: 10 px;
+  left: 10px;
+  right: 10px;
   bottom: 0;
-  height: 1 px;
+  height: 1px;
   background-color: #b3affa;
 }
 
@@ -60,16 +60,16 @@ h6,
 .filters a.active:before {
   content: "";
   position: absolute;
-  left: 10 px;
-  right: 10 px;
+  left: 10px;
+  right: 10px;
   bottom: 0;
-  height: 1 px;
+  height: 1px;
   background-color: #000;
 }
 
 .item {
   border: none;
-  margin-bottom: 30 px;
+  margin-bottom: 30px;
 }
 
 .item .item-wrap {
@@ -112,12 +112,12 @@ h6,
 }
 
 .item .item-wrap>.work-info h3 {
-  font-size: 20 px;
+  font-size: 20px;
   margin-bottom: 0;
 }
 
 .item .item-wrap>.work-info span {
-  font-size: 14 px;
+  font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 0.2rem;
 }
@@ -136,26 +136,26 @@ h6,
 }
 
 .item .item-wrap:hover .work-info {
-  margin-top: 0 px;
+  margin-top: 0px;
   opacity: 1;
   visibility: visible;
 }
 
 .testimonial-wrap {
-  padding: 50 px 50 px 80 px 50 px;
+  padding: 50px 50px 80px50 px;
   background: #eceff2;
 }
 
 .testimonial-wrap .testimonial {
   text-align: center;
-  max-width: 500 px;
+  max-width: 500px;
   margin: 0 auto;
 }
 
 .testimonial-wrap .testimonial img {
   border-radius: 50 %;
-  width: 120 px;
-  margin: 0 auto 30 px auto;
+  width: 120px;
+  margin: 0 auto 30px auto;
 }
 
 .testimonial-wrap .testimonial blockquote p {
@@ -177,8 +177,8 @@ h6,
 .readmore {
   display: inline-block;
   border: 1 px solid #000;
-  border-radius: 50 px;
-  padding: 10 px 15 px;
+  border-radius: 50px;
+  padding: 10 px 15px;
   font-size: 12 px;
   text-transform: uppercase;
   color: #4e49b5;
@@ -280,11 +280,11 @@ h6,
 }
 
 .services i {
-  font-size: 40 px;
+  font-size: 40px;
 }
 
 .services h4 {
-  padding-top: 20 px;
+  padding-top: 20px;
 }
 
 
@@ -298,12 +298,12 @@ h6,
   color: #fff;
   background: #ed3c0d;
   text-align: left;
-  padding: 15 px;
+  padding: 15px;
   font-weight: 600;
 }
 
 .php-email-form .error-message br+br {
-  margin-top: 25 px;
+  margin-top: 25px;
 }
 
 .php-email-form .sent-message {
@@ -311,7 +311,7 @@ h6,
   color: #fff;
   background: #18d26e;
   text-align: center;
-  padding: 15 px;
+  padding: 15px;
   font-weight: 600;
 }
 
@@ -319,17 +319,17 @@ h6,
   display: none;
   background: #fff;
   text-align: center;
-  padding: 15 px;
+  padding: 15px;
 }
 
 .php-email-form .loading:before {
   content: "";
   display: inline-block;
   border-radius: 50%;
-  width: 24 px;
-  height: 24 px;
-  margin: 0 10 px -6 px 0;
-  border: 3 px solid #18d26e;
+  width: 24px;
+  height: 24px;
+  margin: 0 10px -6px 0;
+  border: 3px solid #18d26e;
   border-top-color: #eee;
   animation: animate-loading 1s linear infinite;
 }
@@ -361,12 +361,12 @@ h6,
 
 .custom-navmenu .custom-menu li {
   margin-bottom: 0;
-  font-size: 20 px;
+  font-size: 20px;
 }
 
 .custom-navmenu .custom-menu li a {
   color: #fff;
-  padding: 10 px 0 !important;
+  padding: 10px 0 !important;
 }
 
 .custom-navmenu .custom-menu li a:hover {
@@ -378,7 +378,7 @@ h6,
 }
 
 .custom-navmenu h3 {
-  font-size: 20 px;
+  font-size: 20px;
   color: #fff;
 }
 
@@ -396,11 +396,11 @@ h6,
 
 /* Custom Navbar */
 .custom-navbar {
-  padding-top: 50 px;
-  width: 100 %;
+  padding-top: 50px;
+  width: 100%;
 }
 
-@media (max-width: 400 px) {
+@media (max-width: 400px) {
   .custom-navbar>.container {
     padding-right: 0;
     padding-left: 0;
@@ -408,13 +408,13 @@ h6,
 }
 
 .custom-navbar .navbar-brand {
-  font-size: 1.7 rem;
+  font-size: 1.7rem;
 }
 
 /* Burger */
 .burger {
-  width: 28 px;
-  height: 32 px;
+  width: 28px;
+  height: 32px;
   cursor: pointer;
   position: relative;
 }
@@ -423,10 +423,10 @@ h6,
 .burger span,
 .burger:after {
   width: 100 %;
-  height: 2 px;
+  height: 2px;
   display: block;
   background: #000;
-  border-radius: 2 px;
+  border-radius: 2px;
   position: absolute;
   opacity: 1;
 }
@@ -439,20 +439,20 @@ h6,
 }
 
 .burger:before {
-  top: 4 px;
+  top: 4px;
 }
 
 .burger span {
-  top: 15 px;
+  top: 15px;
 }
 
 .burger:after {
-  top: 26 px;
+  top: 26px;
 }
 
 /* Hover */
 .burger:hover:before {
-  top: 7 px;
+  top: 7px;
 }
 
 .burger:hover:after {
@@ -466,7 +466,7 @@ h6,
 
 .burger.active:before,
 .burger.active:after {
-  top: 40 %;
+  top: 40%;
 }
 
 .burger.active:before {
@@ -485,7 +485,7 @@ h6,
 # Footer
 --------------------------------------------------------------*/
 .footer {
-  padding: 0 0 6 rem 0;
+  padding: 0 0 6rem 0;
 }
 
 .footer a {
@@ -494,9 +494,9 @@ h6,
 
 .social a {
   display: inline-block;
-  width: 50 px;
-  height: 50 px;
-  border-radius: 50 %;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
   background: #f8f9fa;
   position: relative;
   text-align: center;
@@ -505,9 +505,9 @@ h6,
 
 .social a span {
   display: inline-block;
-  left: 50 %;
+  left: 50%;
   position: absolute;
-  top: 50 %;
+  top: 50%;
   transform: translate(-50%, -50%);
   color: #000;
 }

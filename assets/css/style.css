@@ -274,15 +274,17 @@ h6,
   background-color: #bab7ff;
   padding-top: 40 px;
   padding-bottom: 40 px;
+  padding-right: 40 px;
+  padding-left: 40 px;
 
 }
 
 .services i {
-  font-size: 40px;
+  font-size: 40 px;
 }
 
 .services h4 {
-  padding-top: 10px;
+  padding-top: 20 px;
 }
 
 

@@ -498,7 +498,7 @@ h6,
   background: #f8f9fa;
   position: relative;
   text-align: center;
-  color: #0d1e2d;
+  color: #7d78f2;
 }
 
 .social a span {
@@ -507,8 +507,9 @@ h6,
   position: absolute;
   top: 50%;
   transform: translate(-50%, -50%);
+  color: #000;
 }
 
 .social a:hover {
-  color: #000;
+  color: #7d78f2;
 }

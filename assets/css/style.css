@@ -1,16 +1,16 @@
 
 body {
   font-family: Georgia, serif;
-  color: #fe1e62;
+  color: #3f4390;
 }
 
 a {
-  color: #fe1e62;
+  color: #3f4390;
   text-decoration: none;
 }
 
 a:hover {
-  color: #fe1e62;
+  color: #3f4390;
 }
 
 h1,
@@ -21,7 +21,7 @@ h5,
 h6,
 .font-heading {
   font-family: Georgia, serif;
-  color: #fe1e62;
+  color: #3f4390;
 }
 
 .section {
@@ -30,7 +30,7 @@ h6,
 
 .filters a {
   text-decoration: none;
-  color: #fe1e62;
+  color: #3f4390;
   display: inline-block;
   padding-left: 10px;
   padding-right: 10px;

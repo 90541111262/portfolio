@@ -1,7 +1,7 @@
 
 body {
-  font-family: "Inconsolata", monospace;
-  color: #0d1e2d;
+  font-family: Georgia, serif;
+  color: #4c4989;
 }
 
 a {
@@ -20,7 +20,8 @@ h4,
 h5,
 h6,
 .font-heading {
-  font-family: "Raleway", sans-serif;
+  font-family: Georgia, serif;
+  color: #4c4989;
 }
 
 .section {
@@ -49,7 +50,7 @@ h6,
   right: 10px;
   bottom: 0;
   height: 1px;
-  background-color: #000;
+  background-color: #b3affa;
 }
 
 .filters a.active {

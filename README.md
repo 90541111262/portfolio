@@ -1,61 +1,42 @@
 README.txt
 -----------
 
-Project Title: My Web Portfolio
+Project Title: CARLOS ALADIM PORTFOLIO - WEB DEVELOPMENT FINAL ASSIGNMENT - ALGONQUIN COLLEGE - 2023
 
-Author: Charles Asirifi
+Author: CARLOS ALADIM CORDEIRO 
 
-Date: 20/11/2023
+Date: 8/12/2023
 
-Description:
-------------
-This repository contains the source code for my personal portfolio webpage. 
-The purpose of this portfolio is to showcase my skills, projects, and experiences in Web Development.
- This webpage is designed to be responsive and accessible, providing a seamless experience across various devices and screen sizes.
+Description: Contained within this repository lies the source code for my individual portfolio website. Its primary aim is to exhibit my proficiencies, accomplishments, and journey in the realm of web development. Crafted with responsiveness and accessibility in mind, this webpage ensures a fluid and user-friendly encounter, adapting effortlessly to diverse devices and screen dimensions.
 
-Features:
----------
-- Responsive design ensuring compatibility with different devices
-- Interactive UI elements for enhanced user engagement
-- Portfolio section showcasing my projects and accomplishments
-- Contact form for easy communication
-- About me
+Characteristics:
+Adaptable design ensuring compatibility across diverse devices;
+Engaging user interface elements fostering enhanced interaction;
+Portfolio segment spotlighting my projects and achievements;
+User-friendly contact form for seamless communication;
+Personal background information;
 
-Technologies Used:
-------------------
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap 
-- Graphic Design  - Photoshop
+Utilized Technologies:
+HTML5
+CSS3
+JavaScript
+Bootstrap
 
-Installation:
--------------
-No installation is required. The webpage can be viewed online .
+Graphic Design: Adobe Photoshop
 
-Usage:
-------
-To view the portfolio, simply navigate to the provided URL. The website is divided into several sections, including About Me, Projects, Skills, and Contact. Users can interact with various elements to get more information about my work and contact me directly through the website.
+Setup: No specific setup is needed. The webpage is accessible online.
 
-Contributions:
----------------
-As this is a personal portfolio webpage, contributions are not actively sought. However, any feedback or suggestions for improvement are welcome. Please feel free to reach out to me via the contact form on the website or through GitHub.
+Utilization: Access the portfolio by visiting the provided URL. The site is categorized into sections like About Me, Projects, Skills, and Contact, allowing users to explore my work and directly connect through the website.
 
-Acknowledgements:
------------------
-- Boostrap website
-- stackoverflow 
-- w3schools
+Contribution: Given the nature of this being a personal portfolio, active contributions aren't solicited. However, any feedback or suggestions for enhancement are warmly welcomed. Reach out via the website's contact form or through GitHub.
 
-License:
---------
+Appreciation:
+Bootstrap website
+Stack Overflow
+W3Schools
 
 
 Contact Information:
---------------------
-- Name: Charles Asirifi
-- Email: asirificharles@yahoo.com
-- LinkedIn: https://www.linkedin.com/in/as-charles
-- GitHub: https://github.com/as-charles
-
-
+Carlos Aladim
++1(647)4003908
+i.carlosaladim@gmail.com
